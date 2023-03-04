@@ -1,0 +1,10 @@
+.main {
+    display: flex;
+}
+.buttons {
+    width: 30%;
+    border: 1px solid gray;
+}
+.list {
+    width: 100%;
+}

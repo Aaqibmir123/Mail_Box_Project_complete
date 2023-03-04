@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    background-color: rgb(0, 0, 139);
+    align-items: center;
+    justify-content: space-around;
+}
+.header h3 {
+    margin-left: 30px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+/* .findText {
+    margin-left: 10rem;
+    width: 200%;
+}
+.findText input {
+    height: 0.9cm;
+} */
+/* .searchButton {
+    margin-left: 10px;
+    border-radius: 5px;
+    border: none;
+    padding: 0.3rem 0.7rem;
+} */
+.userId {
+    color: white;
+    font-style: italic;
+}
+.logout {
+    margin-right: 3%;
+    cursor: pointer;
+    background-color: rgb(23, 37, 240);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 0.5rem 0.9rem;
+}
+.logout:hover {
+    background-color: rgb(101, 111, 240);
+}
